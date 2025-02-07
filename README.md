@@ -25,5 +25,5 @@ You can run this chatbot using Google Colab or on your local machine.
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/sajjadahmad-dev/Speech-LLM-Speech-Model)
+cd Speech-LLM-Speech-Model
